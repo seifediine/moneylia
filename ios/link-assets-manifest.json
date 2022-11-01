@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Rubik-Bold.ttf",
+      "sha1": "3b001cf9a3c4bf1176d915e5f154e8c712c582d7"
+    },
+    {
+      "path": "assets/fonts/Rubik-Light.ttf",
+      "sha1": "3b681bad0af19fdd24a1f302a19dcd4df150da89"
+    },
+    {
+      "path": "assets/fonts/Rubik-Medium.ttf",
+      "sha1": "c91959545dae337c923ad06bfd0ef27f94a97933"
+    },
+    {
+      "path": "assets/fonts/Rubik-Regular.ttf",
+      "sha1": "a7748ad21296101be2698dc585c7194ed43385ea"
+    },
+    {
+      "path": "assets/fonts/Rubik-SemiBold.ttf",
+      "sha1": "6c52238fe8c885c62b5a92520557066d1e1279eb"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Bold.ttf",
+      "sha1": "048d6d2ced2cd4a4513e19ce9765c96896039087"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Light.ttf",
+      "sha1": "7072fb1da403cc0618804b71b72b4df5a8b3647d"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Medium.ttf",
+      "sha1": "a8cf94376a573ae2c43d0457a28b4357e9808946"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Regular.ttf",
+      "sha1": "89a5d38e1316b70da48e9475628023264af74783"
+    },
+    {
+      "path": "assets/fonts/WorkSans-SemiBold.ttf",
+      "sha1": "f12114ffb09b58990f7aab420b592c3e4315ff95"
+    }
+  ]
+}
